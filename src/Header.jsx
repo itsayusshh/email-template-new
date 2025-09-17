@@ -15,21 +15,26 @@ export default function Box() {
           <p className="Cloudtellix">Cloudtellix</p>
         </div>
         <div class="box1">
-          {" "}
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-          quibusdam quos architecto amet, illum numquam fugit beatae libero
-          voluptatum laudantium sunt eligendi odit, hic optio maiores rem quo ab
-          tenetur? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Velit dolorum sed assumenda laborum excepturi ab et? Impedit animi
-          necessitatibus cupiditate ullam dicta atque consectetur, veniam iste.
-          Molestias quae delectus deleniti. Veniam maiores accusantium assumenda
-          ea adipisci ab, a dolores explicabo placeat esse molestiae dignissimos
-          vitae obcaecati eos! Laboriosam explicabo quod suscipit, at quae
-          libero voluptates cum aliquid labore dolore laudantium? Id deserunt
-          sapiente non, pariatur nam odio cum molestias soluta architecto optio
-          similique! Qui, aliquid ipsa? Enim aliquid ut officiis reiciendis
-          cumque. Doloribus, rerum natus minus cumque doloremque nesciunt vitae?
-          <button>Verify Email</button>
+          <span>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+            quibusdam quos architecto amet, illum numquam fugit beatae libero
+            voluptatum laudantium sunt eligendi odit, hic optio maiores rem quo
+            ab tenetur? Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Velit dolorum sed assumenda laborum excepturi ab et? Impedit animi
+            necessitatibus cupiditate ullam dicta atque consectetur, veniam
+            iste. Molestias quae delectus deleniti. Veniam maiores accusantium
+            assumenda ea adipisci ab, a dolores explicabo placeat esse molestiae
+            dignissimos vitae obcaecati eos! Laboriosam explicabo quod suscipit,
+            at quae libero voluptates cum aliquid labore dolore laudantium? Id
+            deserunt sapiente non, pariatur nam odio cum molestias soluta
+            architecto optio similique! Qui, aliquid ipsa? Enim aliquid ut
+            officiis reiciendis cumque. Doloribus, rerum natus minus cumque
+            doloremque nesciunt vitae?
+          </span>
+
+          <button className="button1">
+            <a href="https://controlzed.in/">Verify Email</a>
+          </button>
         </div>
         <div class="box2">
           <div class="ess_box">Want updates through more plateform? </div>
